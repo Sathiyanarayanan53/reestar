@@ -12,7 +12,7 @@ This is a simple **Restaurant Menu Card** built using **HTML and CSS**.
 - Well-structured HTML and CSS
 
 ## 🔗 Live Demo
-[View Menu](your-live-demo-link) *(Replace with actual URL after deployment)*
+[View Menu]([your-live-demo-link](https://sathiyanarayanan53.github.io/reestar/)) *(Replace with actual URL after deployment)*
 
 ## 📂 Folder Structure
 (Add your folder structure here)
