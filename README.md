@@ -12,13 +12,18 @@ This is a simple **Restaurant Menu Card** built using **HTML and CSS**.
 - Well-structured HTML and CSS
 
 ## 🔗 Live Demo
-[View Menu](your-live-demo-link) *(Replace with actual URL after deployment)*
+[View Menu](https://sathiyanarayanan53.github.io/reestar/) *(Replace with actual URL after deployment)*
 
 ## 📂 Folder Structure
-(Add your folder structure here)
+```
+project-folder/
+│── index.html
+│── styles.css
+│── images/      # Contains all menu-related images
+```
 
 ## ✨ Author
-- **Your Name**
+- **Sathiyanaraynan**
 
 ## 📜 License
 This project is open-source and free to use.
