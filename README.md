@@ -18,7 +18,7 @@ This is a simple **Restaurant Menu Card** built using **HTML and CSS**.
 (Add your folder structure here)
 
 ## ✨ Author
-- **Your Name**
+- **Sathiyanaraynan**
 
 ## 📜 License
 This project is open-source and free to use.
